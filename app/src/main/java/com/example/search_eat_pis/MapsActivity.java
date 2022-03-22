@@ -16,7 +16,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     private GoogleMap mMap;
     private ActivityMapsBinding binding;
-    private String hol;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
